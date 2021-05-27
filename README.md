@@ -14,9 +14,7 @@ tablero = zeros(reinas);
 ```
 # Ejemplo de uso 💻
 
-Para entender este codigo voy a realizar un pequeño ejemplo con 4 reinas por ende un tablero 4x4.
-
-las formas en que se pueden ubicar 4 reinas en un tablero sin que se ataquen son 2 y las muestro a continuacion: 
+Para entender este codigo voy a realizar un pequeño ejemplo con 4 reinas por ende un tablero 4x4. Las formas en que se pueden ubicar 4 reinas en un tablero sin que se ataquen son **2** y las muestro a continuacion: 
 
 **Forma 1**
 
@@ -35,3 +33,4 @@ las formas en que se pueden ubicar 4 reinas en un tablero sin que se ataquen son
 |   |   |  👑 |   |
 
 El codigo tambien nos da la respuesta a la pregunta de la probabilidad de ubicar al azar en este caso 4 reinas en un tablero sin que se ataquen *Respuesta: 4.5788e-05*
+
