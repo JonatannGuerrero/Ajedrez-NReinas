@@ -34,17 +34,17 @@ Para entender este código voy a realizar un pequeño ejemplo con 4 reinas por e
 | 👑  |   |   |   |
 |   |   |  👑 |   |
 
-El código tambien nos da la respuesta a la pregunta de la probabilidad de ubicar al azar en este caso 4 reinas en un tablero sin que se ataquen *Respuesta: 4.5788e-05*
+El código tambien nos da la respuesta a probabilidad de ubicar al azar en este caso 4 reinas en un tablero sin que se ataquen *Respuesta: 4.5788e-05*
 
 # Resultados 🔥📈
 **Desarrollo con 8 Reinas 👑**
 
-Como esta en el codigo vamos a usar 8 Reinas en un tablero 8x8 el programa nos arroja los siguientes resultados:
+Como esta en el código vamos a usar 8 Reinas en un tablero 8x8 el programa nos arroja los siguientes resultados:
 
 - Las formas en las que **NO** se atacan las reinas son: **92**
 - La probabilidad de que **NO**  se ataquen es de: 5.1551e-13
 
-Les voy a mostrar una de las **92** formas que nos arroja el codigo en el cual **NO** se atacan las 8 Reinas
+Les voy a mostrar una de las **92** formas que nos arroja el código en el cual **NO** se atacan las 8 Reinas
 
 **Tablero Ajedrez Forma 1**
 
