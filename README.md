@@ -34,7 +34,7 @@ Para entender este código voy a realizar un pequeño ejemplo con 4 reinas por e
 | 👑  |   |   |   |
 |   |   |  👑 |   |
 
-El código también nos da la respuesta a la probabilidad de ubicar al azar en este caso a 4 reinas en un tablero **sin** que se ataquen *Respuesta: 4.5788e-05*
+El código también nos da la respuesta a la probabilidad de ubicar al azar en este caso a 4 reinas en un tablero **sin** que se ataquen. *Respuesta: 4.5788e-05*
 
 # Resultados 🔥📈
 **Desarrollo con 8 Reinas 👑**
